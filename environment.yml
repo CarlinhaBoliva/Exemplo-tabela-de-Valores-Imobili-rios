@@ -1,4 +1,4 @@
-name: california
+name: tabela-de-Valores-Imobili-rios
 channels:
   - conda-forge
   - defaults
